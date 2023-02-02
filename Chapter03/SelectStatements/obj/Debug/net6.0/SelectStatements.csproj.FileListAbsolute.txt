@@ -1,0 +1,15 @@
+C:\Code\Chapter03\SelectStatements\bin\Debug\net6.0\SelectStatements.exe
+C:\Code\Chapter03\SelectStatements\bin\Debug\net6.0\SelectStatements.deps.json
+C:\Code\Chapter03\SelectStatements\bin\Debug\net6.0\SelectStatements.runtimeconfig.json
+C:\Code\Chapter03\SelectStatements\bin\Debug\net6.0\SelectStatements.dll
+C:\Code\Chapter03\SelectStatements\bin\Debug\net6.0\SelectStatements.pdb
+C:\Code\Chapter03\SelectStatements\obj\Debug\net6.0\SelectStatements.csproj.AssemblyReference.cache
+C:\Code\Chapter03\SelectStatements\obj\Debug\net6.0\SelectStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Chapter03\SelectStatements\obj\Debug\net6.0\SelectStatements.AssemblyInfoInputs.cache
+C:\Code\Chapter03\SelectStatements\obj\Debug\net6.0\SelectStatements.AssemblyInfo.cs
+C:\Code\Chapter03\SelectStatements\obj\Debug\net6.0\SelectStatements.csproj.CoreCompileInputs.cache
+C:\Code\Chapter03\SelectStatements\obj\Debug\net6.0\SelectStatements.dll
+C:\Code\Chapter03\SelectStatements\obj\Debug\net6.0\refint\SelectStatements.dll
+C:\Code\Chapter03\SelectStatements\obj\Debug\net6.0\SelectStatements.pdb
+C:\Code\Chapter03\SelectStatements\obj\Debug\net6.0\SelectStatements.genruntimeconfig.cache
+C:\Code\Chapter03\SelectStatements\obj\Debug\net6.0\ref\SelectStatements.dll
