@@ -31,8 +31,6 @@ class Public
                 else
                 {
                     Console.WriteLine("Passwords do not match");
-                   
-                   
                 }
                 } while (createAccount == "y");
             Console.WriteLine();
@@ -66,8 +64,6 @@ class Public
                         Console.WriteLine("Username and password is not correct");
                         Console.WriteLine($"{3 - i} attempts left");
                     }
-
-
 
                 } while (logIn == "y");
             }
