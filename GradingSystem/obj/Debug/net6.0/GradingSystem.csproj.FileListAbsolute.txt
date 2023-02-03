@@ -1,0 +1,15 @@
+C:\Code\LessonPractice\GradingSystem\bin\Debug\net6.0\GradingSystem.exe
+C:\Code\LessonPractice\GradingSystem\bin\Debug\net6.0\GradingSystem.deps.json
+C:\Code\LessonPractice\GradingSystem\bin\Debug\net6.0\GradingSystem.runtimeconfig.json
+C:\Code\LessonPractice\GradingSystem\bin\Debug\net6.0\GradingSystem.dll
+C:\Code\LessonPractice\GradingSystem\bin\Debug\net6.0\GradingSystem.pdb
+C:\Code\LessonPractice\GradingSystem\obj\Debug\net6.0\GradingSystem.csproj.AssemblyReference.cache
+C:\Code\LessonPractice\GradingSystem\obj\Debug\net6.0\GradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\LessonPractice\GradingSystem\obj\Debug\net6.0\GradingSystem.AssemblyInfoInputs.cache
+C:\Code\LessonPractice\GradingSystem\obj\Debug\net6.0\GradingSystem.AssemblyInfo.cs
+C:\Code\LessonPractice\GradingSystem\obj\Debug\net6.0\GradingSystem.csproj.CoreCompileInputs.cache
+C:\Code\LessonPractice\GradingSystem\obj\Debug\net6.0\GradingSystem.dll
+C:\Code\LessonPractice\GradingSystem\obj\Debug\net6.0\refint\GradingSystem.dll
+C:\Code\LessonPractice\GradingSystem\obj\Debug\net6.0\GradingSystem.pdb
+C:\Code\LessonPractice\GradingSystem\obj\Debug\net6.0\GradingSystem.genruntimeconfig.cache
+C:\Code\LessonPractice\GradingSystem\obj\Debug\net6.0\ref\GradingSystem.dll
