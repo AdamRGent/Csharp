@@ -1,0 +1,15 @@
+C:\Code\LessonPractice\GradingSystemSwitch\bin\Debug\net6.0\GradingSystemSwitch.exe
+C:\Code\LessonPractice\GradingSystemSwitch\bin\Debug\net6.0\GradingSystemSwitch.deps.json
+C:\Code\LessonPractice\GradingSystemSwitch\bin\Debug\net6.0\GradingSystemSwitch.runtimeconfig.json
+C:\Code\LessonPractice\GradingSystemSwitch\bin\Debug\net6.0\GradingSystemSwitch.dll
+C:\Code\LessonPractice\GradingSystemSwitch\bin\Debug\net6.0\GradingSystemSwitch.pdb
+C:\Code\LessonPractice\GradingSystemSwitch\obj\Debug\net6.0\GradingSystemSwitch.csproj.AssemblyReference.cache
+C:\Code\LessonPractice\GradingSystemSwitch\obj\Debug\net6.0\GradingSystemSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\LessonPractice\GradingSystemSwitch\obj\Debug\net6.0\GradingSystemSwitch.AssemblyInfoInputs.cache
+C:\Code\LessonPractice\GradingSystemSwitch\obj\Debug\net6.0\GradingSystemSwitch.AssemblyInfo.cs
+C:\Code\LessonPractice\GradingSystemSwitch\obj\Debug\net6.0\GradingSystemSwitch.csproj.CoreCompileInputs.cache
+C:\Code\LessonPractice\GradingSystemSwitch\obj\Debug\net6.0\GradingSystemSwitch.dll
+C:\Code\LessonPractice\GradingSystemSwitch\obj\Debug\net6.0\refint\GradingSystemSwitch.dll
+C:\Code\LessonPractice\GradingSystemSwitch\obj\Debug\net6.0\GradingSystemSwitch.pdb
+C:\Code\LessonPractice\GradingSystemSwitch\obj\Debug\net6.0\GradingSystemSwitch.genruntimeconfig.cache
+C:\Code\LessonPractice\GradingSystemSwitch\obj\Debug\net6.0\ref\GradingSystemSwitch.dll
