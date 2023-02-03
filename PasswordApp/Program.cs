@@ -57,8 +57,6 @@ class Public
                         Console.WriteLine("Maximum attempts exceeded");
                         break;
                     }
-
-
                     else
                     {
                         Console.WriteLine("Username and password is not correct");
@@ -70,22 +68,17 @@ class Public
             else if (logIn != "y" && logIn != "n")
             {
                 Console.WriteLine("Invalid Input, only enter y or n");
-
             }
             else
             {
                 Console.WriteLine();
-
             }
-
-
 
         }
         else if (createAccount!="y" && createAccount!= "n") 
         {
             Console.WriteLine("Invalid input, please only enter y or n");
         }
-
         else
         {
             Console.WriteLine("No existing users, please create an account");
